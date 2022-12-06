@@ -6,7 +6,9 @@ ViajeMas™ is a system that allows users of the Metro in Madrid to avoid crowde
 
 The train has been divided into different subsections that will be referred to as “doors”. These doors stand for the space of the wagon that surrounds each door of each wagon. Therefore, we will divide the people into as many groups as different doors exist in the train itself.
 
-The nature of the train will vary depending on the line and the model.
+The nature of the train will vary depending on the line and the model. For this simulation, the model 7000 used nowadays in line 10 will be used.
+
+The optimal capacity has been estimated from Plano nº 22 500: Parque de Material Móvil published by the engineering I+D+i and projects departament of the Metro de Madrid in January of 2015.
 
 DISCLAIMER: this program is a virtual simulation of the actual system
 
