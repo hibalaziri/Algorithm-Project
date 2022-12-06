@@ -18,9 +18,11 @@ The complexity of our proposal comes from the usage of heat cameras (one heat ca
 
 Taking this into account, we have used a training file to simulate the readings, which will need to be inputted into the interpreter of choice along with the program so the latter can be run*:
 
-* nevertheless, any txt file with the specified characteristics would serve the same purpose
-heat_map.txt - training data
-In terms of the interpreter, the program has been designed to run on Google Collaboratory. To do so, WHAGAG.ipyb need to be downloaded.
+*nevertheless, any txt file with the specified characteristics would serve the same purpose
+
+- heat_map.txt - training data
+
+In terms of the interpreter, the program has been designed to run on Google Collaboratory. To do so, viajamas_simulator.ipynb need to be downloaded.
 
 ## Usage
 
