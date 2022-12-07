@@ -10,6 +10,8 @@ The nature of the train will vary depending on the line and the model. For this 
 
 The optimal capacity has been estimated from Plano nº 22 500: Parque de Material Móvil published by the engineering I+D+i and projects departament of the Metro de Madrid in January of 2015.
 
+In the real life application, this txt file will be updated every time the train leaves a certain station as all the passengers, from a realistic approach, will not be able to press the button and get the direction. Before the train reaches the platform, the users will be given directions and once they get in, the available spots will be recalculated.
+
 DISCLAIMER: this program is a virtual simulation of the actual system
 
 ## Installation
